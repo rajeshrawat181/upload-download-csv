@@ -10,6 +10,7 @@ mvn spring-boot:run
 ## DB Connection
 Change connection string in application.properties
 location - src/main/resources
+// add roles in Role table whatever role we need to use like- User,SA,ADMIN
 
 ## Lombok 
 Install Lombok in your IDE for reduce boilerplate code like setter and getter and logs
