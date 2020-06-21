@@ -24,5 +24,8 @@ Change directory path in application.properties
 path name  = logging.path
 location - src/main/resources
 
+## end points (on localhost)
+http://localhost:8080/register
+http://localhost:8080/download/errors_user.csv
 
 
