@@ -11,8 +11,10 @@ mvn spring-boot:run
 Change connection string in application.properties
 location - src/main/resources
 
-## Lombok
-Install Lombok in your IDE for setter and getter and logs
+## Lombok 
+Install Lombok in your IDE for reduce boilerplate code like setter and getter and logs
+or
+define settor and gettor and logger reference
 
 ## CSV Error File(error_fileName)
 Change directory path in application.properties
