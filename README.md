@@ -13,9 +13,9 @@ location - src/main/resources
 // add roles in Role table whatever role we need to use like- User,SA,ADMIN
 
 ## Lombok 
-Install Lombok in your IDE for reduce boilerplate code like setter and getter and logs
+Install Lombok plugin in your IDE for reduce boilerplate code like setter and getter and logs
 or
-define settor and gettor and logger reference
+need to implement settor and gettor in POJO classes and logger references
 
 ## CSV Error File(error_fileName)
 Change directory path in application.properties
